@@ -1,6 +1,9 @@
 # Zype - QA Engineer - Take Home Exercise - Part 2: API
 
-In order to run the automated test, please follow the steps below:
+## Requirements
+- [Postman](https://www.postman.com/)
+
+### In order to run the automated test, please follow the steps below:
 
 1. Open Postman
 2. Navigate to Open -> New -> HTTP Request
